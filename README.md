@@ -1,6 +1,6 @@
 # RED HAWK
 #### Version 2.0.0
-#### By R3D#@0R_2H1N A.K.A Tuhinshubhra
+#### By Prince Yasin
 All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
 ![Alt text](https://s28.postimg.org/3lunhz2kt/Screenshot_from_2017-08-11_19-30-32.png "Screenshot")
@@ -107,7 +107,7 @@ Watch The Video TO See How To Solve This Isuue : https://www.youtube.com/watch?v
 alt="Video Thumbnail" border="10" /></a>
 
 # Suggestions And Feedbacks
-Want to contribute to RED HAWK or point out something wrong? Just create a new issue here: https://github.com/Tuhinshubhra/RED_HAWK/issues/new
+Want to contribute to RED HAWK or point out something wrong? Just create a new issue here: https://github.com/Princeyasinn/RED_HAWK/issues/new
 I'd love to hear from you.
 
 # Support and Donations
